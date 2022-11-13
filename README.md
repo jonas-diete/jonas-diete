@@ -1,6 +1,6 @@
 ## Hello, I am Jonas - a software developer with a background in teaching
 
-I am currently completing the Makers Coding Bootcamp - a 12 weeks full-time immersive coding course.
+I have just finished the Makers Coding Bootcamp - a 12 weeks full-time immersive coding course. Now, I am looking for an entry-level job as a software developer.
 
 ### Languages, Frameworks and Databases I have worked with:
   
