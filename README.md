@@ -24,8 +24,7 @@ I have just finished the Makers Coding Bootcamp - a 4 months full-time immersive
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### My CV
-[Take a look](https://github.com/jonas-diete/CV)
+### [My CV](https://github.com/jonas-diete/CV)
 
 ### Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-diete-8451361b9/)
