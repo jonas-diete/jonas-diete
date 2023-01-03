@@ -1,6 +1,10 @@
-## Hello, I am Jonas - a software developer with a background in teaching
+## Hello, I am Jonas - a software developer with a background in teaching  
 
-I have just finished the Makers Coding Bootcamp - a 4 months full-time immersive coding course. Now I am looking for an entry-level job as a software developer.
+I love building software - it feels amazing to create something new that really works and that people can use. Previously I spent 8 Years of fostering an excitement for learning in children - getting better at something is simply beautiful.
+
+Whilst working at my last school, I rediscovered my passion for coding and spent the last year retraining. I just graduated from Makers‘ 4 months immersive coding bootcamp and am keen to start working.
+
+I really enjoy problem solving and working in the tech industry would mean I get a chance to do this all day long!
 
 ### Languages, Frameworks and Databases I have worked with:
   
@@ -24,7 +28,7 @@ I have just finished the Makers Coding Bootcamp - a 4 months full-time immersive
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### [My CV](https://github.com/jonas-diete/CV)
+### >>[My CV](https://github.com/jonas-diete/CV)<<
 
 ### Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-diete-8451361b9/)
