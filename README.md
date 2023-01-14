@@ -6,6 +6,9 @@ Whilst working at my last school, I rediscovered my passion for coding and spent
 
 I really enjoy problem solving and working in the tech industry would mean I get a chance to do this all day long!
 
+### Current Mission  
+Learning to develop RESTful APIs.
+
 ### Languages, Frameworks and Databases I have worked with:
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
