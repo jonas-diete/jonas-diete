@@ -6,7 +6,7 @@ Whilst working at my last school, I rediscovered my passion for coding and spent
 
 I really enjoy problem solving and working in the tech industry would mean I get a chance to do this all day long!
 
-### Current Mission  
+### :sparkles: Current Mission  
 Expanding my knowledge about [RESTful APIs](https://github.com/jonas-diete/flask-api).
 
 ### Languages, Frameworks and Databases I have worked with:
