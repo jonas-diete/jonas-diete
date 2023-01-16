@@ -9,7 +9,7 @@ I really enjoy problem solving and working in the tech industry would mean I get
 ### :sparkles: Current Mission  
 Expanding my knowledge about [RESTful APIs](https://github.com/jonas-diete/flask-api).
 
-### Languages, Frameworks and Databases I have worked with:
+### :speech_balloon: Languages, Frameworks and Databases I have worked with:
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
