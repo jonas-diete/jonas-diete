@@ -6,7 +6,7 @@ Whilst working at my last school, I rediscovered my passion for coding and spent
 
 I really enjoy problem solving and working in the tech industry would mean I get a chance to do this all day long!
 
-### :sparkles: Current Mission  
+### :rocket: Current Mission  
 Expanding my knowledge of C# by writing an OOP text adventure.
 
 ### :speech_balloon: Languages, Frameworks and Databases I have worked with:
