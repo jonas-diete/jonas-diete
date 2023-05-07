@@ -25,6 +25,7 @@ Write thorough tests for my [times table learning app](https://github.com/jonas-
 
 ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Pytest](https://img.shields.io/badge/PyTest-blue?style=for-the-badge&logo=Pytest&logoColor=blue)
+![NUnit](https://img.shields.io/badge/Nunit-green?style=for-the-badge&logo=Nunit&logoColor=green)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
