@@ -7,7 +7,7 @@ Whilst working at my last school, I rediscovered my passion for coding and spent
 I really enjoy problem solving and working in the tech industry would mean I get a chance to do this all day long!
 
 ### :rocket: Current Mission  
-Write thorough tests for my [times table learning app](https://github.com/jonas-diete/text-adventure), so I can build new features in the future and easily see if the rest still works.
+Write thorough tests for my [times table learning app](https://github.com/jonas-diete/timestablecoach), so I can build new features in the future and easily see if the rest still works.
 
 ### :speech_balloon: Languages, Frameworks and Databases I have worked with:
   
