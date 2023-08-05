@@ -2,12 +2,12 @@
 
 I love building software - it feels amazing to create something new that really works and that people can use. Previously I spent 8 Years of fostering an excitement for learning in children - getting better at something is simply beautiful. :hibiscus:
 
-Whilst working at my last school, I rediscovered my passion for coding and spent the last year retraining. I recently graduated from Makers‘ 4 months immersive coding bootcamp and am keen to start working.
+Whilst working at my last school, I rediscovered my passion for coding and spent the last year retraining. I graduated from Makers‘ 4 months immersive coding bootcamp last year and am currently working as a Software Test Engineer for Lotus Cars. :racing_car:
 
-I really enjoy problem solving and working in the tech industry would mean I get a chance to do this all day long!
+I really enjoy problem solving and in Software Development I get to do this all day long which is awesome!
 
 ### :rocket: Current Mission  
-Write thorough tests for my [times table learning app](https://github.com/jonas-diete/timestablecoach), so I can build new features in the future and easily see if the rest still works.
+Implement a highscore / world record list for my [times table learning app](https://github.com/jonas-diete/timestablecoach).
 
 ### :speech_balloon: Languages, Frameworks and Databases I have worked with:
   
