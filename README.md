@@ -2,7 +2,7 @@
 
 I love building software - it feels amazing to create something new that really works and that people can use. Previously I spent 8 Years of fostering an excitement for learning in children - getting better at something is simply beautiful. :hibiscus:
 
-Whilst working at my last school, I rediscovered my passion for coding and spent the last year retraining. I graduated from Makers‘ 4 months immersive coding bootcamp last year and am currently working as a Software Test Engineer for Lotus Cars. :racing_car:
+Whilst working at my last school, I rediscovered my passion for coding and spent the last year retraining. I graduated from Makers‘ 4 months immersive coding bootcamp last year and am currently working as a Software Test Engineer for Lotus Cars. 🚗
 
 I really enjoy problem solving and in Software Development I get to do this all day long which is awesome!
 
